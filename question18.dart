@@ -1,6 +1,6 @@
 void main() {
   Map<String, dynamic> person = {
-    "name": "John",
+    "name": "john",
     "age": 25,
     "isStudent": true,
   };
